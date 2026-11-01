@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/TypeScript-strict-2f4f8f?style=flat-square" alt="TypeScript">
   <img src="https://img.shields.io/badge/Netlify-Functions%20%2B%20Blobs-a33a48?style=flat-square" alt="Netlify">
   <img src="https://img.shields.io/badge/M%C3%BCzik-CC0-b07f14?style=flat-square" alt="CC0 müzik">
+  <img src="https://img.shields.io/badge/Lisans-MIT-4c6b35?style=flat-square" alt="MIT lisansı">
 </p>
 
 ---
@@ -127,3 +128,7 @@ src/motion.tsx              Yumuşak kaydırma ve giriş animasyonları
 - **Radyo:** [SomaFM](https://somafm.com), dinleyici bağışlarıyla yayın yapar
 - **Sahne görselleri:** Google Flow ile üretildi
 - **Yazı tipleri:** Newsreader ve Instrument Sans
+
+## Lisans
+
+Kod [MIT](LICENSE) lisanslıdır. Müzik, yazı tipleri ve radyo yayınları kendi lisanslarına tabidir, MIT kapsamında değildir.
